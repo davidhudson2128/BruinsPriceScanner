@@ -89,3 +89,4 @@ if __name__ == '__main__':
             most_recent_still_working_text = time.time()
 
         time.sleep(interval_between_price_checks)
+
